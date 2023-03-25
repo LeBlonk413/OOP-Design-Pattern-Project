@@ -1,6 +1,6 @@
-# Proiect-POO
+# Design Patterns - OOP Project
 
-Design Patterns
+- Pokemon Minigame -
 
 UPDATE PATTERN
 
